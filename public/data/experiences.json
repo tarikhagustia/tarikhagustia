@@ -1,0 +1,26 @@
+[
+  {
+    "possition" : "ADM EDP",
+    "place" : "PT. AKUR PRATAMA",
+    "date" : "January 2014 - December 2015",
+    "desc" : "Responsible for IT equipment in the office area, also maintaining servers and cash registers"
+  },
+  {
+    "possition" : "TEAM LEADER",
+    "place" : "PT. Saint Technologies Indonesia",
+    "date" : "November 2017 - November 2018 ",
+    "desc" : "Responsible for project management and participating in developing applications"
+  },
+  {
+    "possition" : "Middle Programmer ",
+    "place" : "PT. National Data Integrator",
+    "date" : "November 2017 - November 2018 ",
+    "desc" : "Responsible for developing Web Application using PHP as Core Langauge"
+  },
+  {
+    "possition" : "Freelance Programmer",
+    "place" : "Home Sweet Home",
+    "date" : "November 2018 - Present",
+    "desc" : "Building many Web Application, intract with many client from home"
+  }
+]

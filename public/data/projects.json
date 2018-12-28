@@ -1,0 +1,22 @@
+[
+  {
+    "link" : "https://makalulaku.com/",
+    "desc" : "MLM Membership",
+    "image" : "images/projects/makalulaku.png"
+  },
+  {
+    "link" : "http://ultron.uniontradersociety.net/",
+    "desc" : "Metatarder 4 CRM and IB Software",
+    "image" : "images/projects/ultron.png"
+  },
+  {
+    "link" : "http://mydesk.ultronsystem.com/",
+    "desc" : "Metatarder 4 CRM and IB Software for Company",
+    "image" : "images/projects/mydesk.png"
+  },
+  {
+    "link" : "http://simpati.kemenpar.go.id",
+    "desc" : "Sistem Informasi Manajemen Pengawasan Terintegrasi (Audit Online)",
+    "image" : "images/projects/simpati.png"
+  }
+]
