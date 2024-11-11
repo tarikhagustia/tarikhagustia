@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarikh Agustia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">👨‍💻 Full stack engineer | 8+ years | Go, Node.js, React 🚀 Building NemaPOS & Whatspie ⚡ Passionate about efficient code & innovation</h3>
 
 - 🔭 I’m currently working on [NemaPOS](https://nemapos.com)
 
